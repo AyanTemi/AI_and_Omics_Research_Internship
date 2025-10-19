@@ -140,7 +140,7 @@ cat("
 Summary:
 Multiple probes mapping to the same gene were handled by averaging their expression values using limma::avereps().
 The differential expression comparison was performed between gastric adenocarcinoma (cancer) and normal gastric mucosa.
-Out of all analyzed genes, approximately 1,150 were upregulated and 980 were downregulated (adj.P.Val < 0.05, |logFC| > 1).
+Out of all analyzed genes, approximately 403 were upregulated and 381 were downregulated (adj.P.Val < 0.05, |logFC| > 1).
 Volcano and heatmap visualizations were generated to highlight expression patterns of top genes.
 ")
                      
